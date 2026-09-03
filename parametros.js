@@ -13,7 +13,7 @@ app.get("/sobre", function(req, res){
 })
 
 app.get("/blog", function(req, res){
-    res.send("Bem-vindo ao meu blog"); 
+    res.send("Bem-vindo ao meu blog");
 })
 
 //Os dois pontos serve para colocar um parâmetro 
