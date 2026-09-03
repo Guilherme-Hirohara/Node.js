@@ -27,21 +27,6 @@ Neste repositório, utilizo as seguintes tecnologias fundamentais:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-A organização do código e das anotações segue a seguinte estrutura básica:
-
-```text
-.
-├── 01-fundamentos/       # Conceitos básicos de JS para Node, módulos e manipulação de arquivos
-├── 02-express-basics/    # Criação de servidores, rotas, verbos HTTP e middlewares
-├── 03-apis-rest/         # Construção de APIs RESTful completas (CRUD, status code, JSON)
-├── 04-projetos/          # Projetos práticos e desafios concluídos
-└── README.md             # Documentação do repositório
-```
-
----
-
 ## 🚀 Como Executar os Exemplos Localmente
 
 Se você deseja clonar e testar os arquivos deste repositório na sua máquina, siga os passos abaixo:
